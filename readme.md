@@ -6,7 +6,7 @@
 1. Clone the repository or download the code.
 2. Navigate to the project directory.
 3. Install dependencies:
-`pip install -r requirements.txt`
+`pip install -q flask`
 4. Run the Flask application:
 `flask run` or `python app.py`
 Access the application at `http://127.0.0.1:5000/`
